@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.4_0
-Release:          2
+Release:          3
 Summary:          Combine multi-dimensional arrays
 Group:            Sciences/Mathematics
 License:          LGPL (>= 2)
