@@ -7,7 +7,7 @@ Release:          4
 Summary:          Combine multi-dimensional arrays
 Group:            Sciences/Mathematics
 License:          LGPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.4-0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
